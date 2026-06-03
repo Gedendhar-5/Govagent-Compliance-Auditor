@@ -1,1 +1,0 @@
-# GovAgent — Specialist Agent definitions
