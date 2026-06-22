@@ -201,10 +201,7 @@ govagent-compliance-auditor/
 > **📌 Paste your screenshots below after running the app!**
 
 ### Dashboard Overview
-<!-- 
-  🖼️ PASTE YOUR SCREENSHOT HERE
-  Take a screenshot of the main Streamlit dashboard and replace this comment.
-  Example: ![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 -->
 
 ### Compliance Score Gauge
