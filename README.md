@@ -206,15 +206,6 @@ govagent-compliance-auditor/
   Take a screenshot of the main Streamlit dashboard and replace this comment.
   Example: ![Dashboard](screenshots/dashboard.png)
 -->
-```
-┌──────────────────────────────────────────────────────────┐
-│                  📌 YOUR SCREENSHOT HERE                 │
-│                                                          │
-│  Run the app → Take a screenshot → Add it to this repo  │
-│                                                          │
-│  Suggested path: screenshots/dashboard.png               │
-└──────────────────────────────────────────────────────────┘
-```
 
 ### Compliance Score Gauge
 <!--
