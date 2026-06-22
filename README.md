@@ -16,7 +16,7 @@
 
 **GovAgent** is a production-grade, multi-agent compliance auditing framework that evaluates AI/LLM applications against global regulatory standards — including the **EU AI Act**, **NIST AI RMF**, **GDPR**, and **ISO 42001** — using a coordinated swarm of specialized AI agents powered by **LangGraph** orchestration.
 
-[🚀 Live Demo](#-quick-start) · [📖 Architecture](#-system-architecture) · [🧠 Agents](#-agent-pipeline) · [📊 Output](#-sample-output) · [🛠️ Setup](#️-getting-started)
+[🚀 Live Demo](https://govagent-compliance-auditor-thbzxom9qqlkoqvjina6rm.streamlit.app/) · [📖 Architecture](#-system-architecture) · [🧠 Agents](#-agent-pipeline) · [📊 Output](#-sample-output) · [🛠️ Setup](#️-getting-started)
 
 ---
 
