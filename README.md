@@ -198,59 +198,20 @@ govagent-compliance-auditor/
 
 ## 📊 Sample Output
 
-> **📌 Paste your screenshots below after running the app!**
-
 ### Dashboard Overview
 ![Dashboard](screenshots/dashboard.png)
 -->
 
 ### Compliance Score Gauge
-<!--
-  🖼️ PASTE YOUR SCREENSHOT HERE  
-  Capture the circular score gauge showing the overall compliance score.
-  Example: ![Score](screenshots/score_gauge.png)
+
+![Score](screenshots/score_gauge.png)
 -->
-```
-┌──────────────────────────────────────────────────────────┐
-│                  📌 YOUR SCREENSHOT HERE                 │
-│                                                          │
-│  The radial score gauge with certification decision      │
-│                                                          │
-│  Suggested path: screenshots/score_gauge.png             │
-└──────────────────────────────────────────────────────────┘
-```
 
 ### Agent Analysis Tabs
-<!--
-  🖼️ PASTE YOUR SCREENSHOT HERE
-  Show the tabbed view with Legal, Red-Team, Privacy, and Bias results.
-  Example: ![Tabs](screenshots/agent_tabs.png)
--->
-```
-┌──────────────────────────────────────────────────────────┐
-│                  📌 YOUR SCREENSHOT HERE                 │
-│                                                          │
-│  The tabbed agent results (Legal / Red-Team / Privacy)   │
-│                                                          │
-│  Suggested path: screenshots/agent_tabs.png              │
-└──────────────────────────────────────────────────────────┘
-```
 
-### AI Compliance Passport (PDF)
-<!--
-  🖼️ PASTE YOUR SCREENSHOT HERE
-  Show the generated PDF passport document.
-  Example: ![Passport](screenshots/passport_pdf.png)
+![Tabs](screenshots/agent_tabs1.png)
 -->
-```
-┌──────────────────────────────────────────────────────────┐
-│                  📌 YOUR SCREENSHOT HERE                 │
-│                                                          │
-│  The exported AI Compliance Passport PDF document        │
-│                                                          │
-│  Suggested path: screenshots/passport_pdf.png            │
-└──────────────────────────────────────────────────────────┘
-```
+![Tabs1](screenshots/agent_tabs2.png)
 
 ---
 
