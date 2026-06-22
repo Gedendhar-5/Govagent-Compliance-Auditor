@@ -214,7 +214,6 @@ govagent-compliance-auditor/
 ![Tabs1](screenshots/agent_tabs2.png)
 
 ---
-
 ## 🛠️ Getting Started
 
 ### Prerequisites
